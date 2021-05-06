@@ -456,7 +456,7 @@ async def play(_, message: Message):
                               #print(e)
                               await lel.edit(
                                   f"<b>🔴 Flood Wait Error 🔴 \nAssistant Bot tidak dapat bergabung dengan grup Anda karena banyaknya permintaan bergabung untuk userbot! Pastikan pengguna tidak dibanned dalam grup."
-                                  "\n\nAtau tambahkan secara manual @botmusikman ke Grup Anda dan coba lagi</b>",
+                                  "\n\nAtau tambahkan secara manual @prazzassistant ke Grup Anda dan coba lagi</b>",
                               )
                               pass
     try:
@@ -510,7 +510,7 @@ async def play(_, message: Message):
                 ],                     
                 [
                     InlineKeyboardButton(
-                        "Owner Music Man", url="https://instagram.com/mrismanaziz_"
+                        "Owner P Music", url="https://instagram.com/i.so6464"
                     )
                 ],
                 [       
@@ -574,7 +574,7 @@ async def deezer(client: Client, message_: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name =  "MusicMan"
+        user.first_name =  "PMusic"
     usar = user
     wew = usar.id
     try:
@@ -604,7 +604,7 @@ async def deezer(client: Client, message_: Message):
                               #print(e)
                               await lel.edit(
                                   f"<b>🔴 Flood Wait Error 🔴 \nAssistant Bot tidak dapat bergabung dengan grup Anda karena banyaknya permintaan bergabung untuk userbot! Pastikan pengguna tidak dibanned dalam grup."
-                                  "\n\nAtau tambahkan secara manual @botmusikman ke Grup Anda dan coba lagi</b>",
+                                  "\n\nAtau tambahkan secara manual @prazzassistant ke Grup Anda dan coba lagi</b>",
                               )
                               pass
     try:
@@ -645,7 +645,7 @@ async def deezer(client: Client, message_: Message):
                 ],                     
                 [
                     InlineKeyboardButton(
-                        "Owner Music Man", url="https://instagram.com/mrismanaziz_"
+                        "Owner P Music", url="https://instagram.com/i.so6464"
                     )
                 ],
                 [       
@@ -706,7 +706,7 @@ async def jiosaavn(client: Client, message_: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name =  "MusicMan"
+        user.first_name =  "PMusic"
     usar = user
     wew = usar.id
     try:
@@ -781,7 +781,7 @@ async def jiosaavn(client: Client, message_: Message):
                 ],                     
                 [
                     InlineKeyboardButton(
-                        "Owner Music Man", url="https://instagram.com/mrismanaziz_"
+                        "Owner P Music", url="https://instagram.com/i.so6464"
                     )
                 ],
                 [       
